@@ -23,7 +23,7 @@ module.exports = {
   keys: function() {
     return [
       ['HELP'],
-      ['BLOCK REWARD', 'LUNO'],
+      ['BLOCK REWARD', 'LUNO', 'LUNO BLOCK REWARD'],
       ['SPARK SUMMARY'],
       ['NANO BALANCE', 'NANO HASHRATE', 'NANO CALCULATOR']
     ];
