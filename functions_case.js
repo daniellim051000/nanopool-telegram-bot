@@ -13,6 +13,7 @@ module.exports = {
       'SPARK SUMMARY': require('./functions/spark-summary.js'),
       'BLOCK REWARD': require('./functions/block-reward.js'),
       'BR': require('./functions/block-reward.js'),
+      'LUNO BLOCK REWARD': require('./functions/luno-br.js'),
       'LUNO': require('./functions/luno-pricing.js'),
       'NANO BALANCE': require('./functions/balance.js'),
       'NANO HASHRATE': require('./functions/report-worker.js'),
